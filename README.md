@@ -36,15 +36,15 @@ Here are some of the projects I’ve been working on (or plan to build):
 - 🔹 [**QuizMaster**](https://github.com/your-username/project2) – An interactive quiz application for learning through practice.  
 - 🔹 [**OpenLearn API**](https://github.com/your-username/project3) – A RESTful API for managing and sharing open-source learning materials.  
 
-👉 *Check out more on my [repositories](https://github.com/your-username?tab=repositories).*  
+👉 *Check out more on my [repositories](https://github.com/Anstech1?tab=repositories).*  
 
 ---
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anstech1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anstech1&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
 
 ---
@@ -52,9 +52,8 @@ Here are some of the projects I’ve been working on (or plan to build):
 <!-- Get in Touch -->
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" /></a>
+  <a href="https://www.linkedin.com/in/josef-odum-8a69826a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:odumjosef4@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" /></a>
 </p>
 
 ---
