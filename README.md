@@ -21,7 +21,7 @@ I started this journey because I believe technology can change lives, and I am p
 <!-- Skills Section -->
 ## 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,mysql,sqlite,git,github,linux,docker,html,css,javascript&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,docker,html,css,javascript&theme=light" />
 </p>
 
 ---
